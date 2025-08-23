@@ -1,0 +1,3 @@
+# Housing Price Prediction Project - HW3
+
+This project applies Python data structures, NumPy, pandas, and reusable function design to explore and summarize a housing dataset located at `starter_data.csv`. The notebook `notebooks/hw03_python_fundamentals.ipynb` performs NumPy operations, loads and inspects the dataset, computes summary statistics, conducts groupby aggregation, and saves outputs to `data/processed/summary.csv` and `data/processed/bar_plot.png`. A utility function is defined in `src/utils.py` for reusable data processing. The project is structured to ensure reproducibility and clarity, with all code commented for readability. Detailed step-by-step explanations are provided in the notebook for each task.

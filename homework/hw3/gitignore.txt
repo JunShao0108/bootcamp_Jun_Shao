@@ -1,0 +1,19 @@
+# Ignore data directories
+data/
+data/processed/
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+/env/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store

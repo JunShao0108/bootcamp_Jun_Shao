@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+# Ignore data files but allow directory structure
+data/raw/*.csv
+data/processed/*.csv
+data/raw/*.txt
+
+# Environment files
+.env
+*.env
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+/env/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+=======
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.DS_Store
+>>>>>>> 0b39981d9b32d194a126bce5c2f8e0a9833851d6

@@ -1,0 +1,3 @@
+# Housing Price Prediction Project - HW4
+
+This project implements a reproducible data ingestion workflow for a market-related dataset, using API acquisition (Alpha Vantage for AAPL stock data) and web scraping (Yahoo Finance statistics table). The notebook `stage04_data-acquisition-and-ingestion.ipynb` pulls data, validates columns and types, and saves raw CSVs to `data/raw/`. Secrets are managed via `.env`, and a utility function in `src/config.py` handles key loading. The project includes detailed documentation, validation logic, and an assumptions/risks section, ensuring compliance with the assignment rubric.
