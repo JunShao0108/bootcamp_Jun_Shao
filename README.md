@@ -99,3 +99,6 @@ GitHub.
 ## Project Folder Rules
 - Keep project files organized and clearly named.
 
+## AI use
+I maily used AI for the integrity of the code and the organization of the README file, making the text and code neat and clear.
+
